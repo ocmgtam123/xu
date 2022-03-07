@@ -1,0 +1,27 @@
+.form_item_error{color: red;}
+.paddingleftright{padding-left: 0px !important; padding-right: 0px !important;}
+.paddingleftright5{padding-left: 5px !important; padding-right: 5px !important;}
+.paddingleftright10{padding-left: 10px !important; padding-right: 10px !important;}
+.fa-check{color: #449d44}
+.fa-close{color: #c9302c}
+.cl{clear: both;}
+.textalignright{text-align: right;}
+.inputselect{width: 100%;padding: 5px;border-radius: 3px;border: 1px solid #ccc;}
+.inputselect1{padding: 5px;border-radius: 3px;border: 1px solid #ccc;}
+.inputdefault{width: 100%;padding: 5px;border-radius: 3px;border: 1px solid #ccc;}
+.p_nametype{margin-bottom: 0px;font-weight: bold;padding-top: 5px; font-size: 13px;}
+.ired{color: red;}
+.h3titlepopup{margin: 0px; text-align: center;}
+.closepopup{margin-top: -21px !important;}
+.btnborderclose{border: 1px solid #ccc;}
+button{outline: none;}
+.fa-edit,.fa-trash{cursor: pointer}
+.dataTables_filter{text-align: left !important;}
+.rows_img_collection {margin-bottom: 20px;padding: 10px 5px;border: 1px solid #ccc;text-align: center;width: 15%; margin-right: 1%;}
+.rows_img_collection img{width: 80px; height: 80px;}
+.h5tabledetailorder{margin: 0px;background: #ccc;padding: 8px;font-weight: bold; font-size: 15px}
+.tabledetailorder{width: 100%;}
+.tabledetailorder td{border-bottom: 1px solid #ccc; border-left: 1px solid #CCC; padding: 5px;}
+.tdright{border-right:1px solid #ccc;}
+.info_order_account{padding-top: 3px; margin-bottom: 0px;}
+body::-webkit-scrollbar {display: none;}
